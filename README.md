@@ -13,8 +13,8 @@ Atualmente estou fortalecendo minha base em Java, JavaScript e SQL, além de est
 ## 📊 Estatísticas  
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenabrilhante&layout=compact&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lorenabrilhante&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenabrilhante&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenabrilhante&show_icons=true&theme=dracula"/>
 </div>
 
 ---
@@ -22,14 +22,14 @@ Atualmente estou fortalecendo minha base em Java, JavaScript e SQL, além de est
 ## 🛠️ Linguagens e Tecnologias
 
 <div align="center">  
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/java.gif" height="60" alt="Java" />
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/js.gif" height="60" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/dart.gif" height="60" alt="Dart" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" height="60" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" height="60" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/git.gif" height="60" alt="Git" />
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/github.gif" height="60" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/icons/vscode.gif" height="60" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" />
 </div>
 
 ---
