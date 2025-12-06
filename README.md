@@ -1,65 +1,43 @@
-# Olá! Eu sou a Lorena Brilhante 👋
+# Sobre mim 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Back-End.  
-Tenho paixão por lógica, organização e construção de soluções que fazem sentido no contexto educacional — área onde atuei por anos e que me trouxe habilidades valiosas de comunicação, colaboração e atenção aos detalhes.
+• ✨ Meu nome é Lorena Brilhante e sou uma desenvolvedora em foramção pela Unifor.
+• 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Back-End.  
+• 🧩 Trabalho de forma organizada e orientada a processos, buscando soluções claras e funcionais. Tenho mentalidade ágil e disposição para aprender novas tecnologias. 
+• 👩‍🏫 Minha experiência no ambiente educacional reforçou minha comunicação, organização e atenção aos detalhes, competências que agregam ao meu trabalho em TI.
 
 Atualmente estou fortalecendo minha base em Java, JavaScript e SQL, além de estudar Flutter/Dart para ampliar meu repertório técnico.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# 📊 **Estatísticas**
 
-**Linguagens:**  
-Java • JavaScript • Dart (em estudo)
-
-**Fundamentos & Práticas:**  
-Lógica de Programação • Programação Orientada a Objetos (POO)  
-APIs REST (noções) • SQL (noções) • Versionamento com Git & GitHub  
-HTML • CSS • Scrum (básico)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenabrilhante&layout=pie&theme=dracula" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=lorenabrilhante&show_icons=true&theme=dracula" />
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
+# 🛠️ **Linguagens e Tecnologias**
 
-### 🔹 **Jogo da Coleta de Ovos – Mini Game**
-Jogo educativo com ranking, coleta de itens e transição entre telas.  
-- Programação da lógica do game  
-- Salvamento de pontuação  
-- Interface simples e intuitiva
-
-👉 *Repositório:* (adicione o link)
-
----
-
-### 🔹 **Sistema de Estacionamento – Java**
-Projeto console usando Programação Orientada a Objetos.  
-- Registro de veículos  
-- Tickets, entrada/saída  
-- Manipulação de dados, validações e fluxo
-
-👉 *Repositório:* (adicione o link)
-
----
-
-### 🔹 **Swappify**
-Aplicativo de troca de serviços (inspirado em um “Tinder de habilidades”).  
-- Prototipado no Figma, com definição de telas, navegação e experiência do usuário
-- Planejamento do fluxo de interações, estrutura das funcionalidades e lógica de pontuação
-- Demonstra organização, foco no usuário e capacidade de estruturar aplicações antes da implementação
-
-👉 *Repositório:* (adicione o link aqui)
-
----
-
-## 🎯 O que busco no momento
-
-Estou em busca do meu primeiro estágio em **Back-End**, onde possa evoluir tecnicamente, aplicar meus conhecimentos em programação e contribuir para o desenvolvimento de soluções significativas — especialmente em contextos educacionais, área pela qual tenho forte afinidade.
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+</div>
 
 ---
 
 ## 📫 Onde me encontrar
 
-- ✉️ **E-mail:** lorena.brilhante.mota@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/lorena-brilhante-m/
-- 🐙 **GitHub:** https://github.com/lorenabrilhante  
-
+<a href="mailto:lorena.brilhante.mota@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lorena-brilhante-m/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
