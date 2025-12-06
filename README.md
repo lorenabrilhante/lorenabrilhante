@@ -13,8 +13,13 @@ Atualmente estou fortalecendo minha base em Java, JavaScript e SQL, além de est
 ## 📊 Estatísticas  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lorenabrilhante&layout=compact&langs_count=6&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorenabrilhante&show_icons=true&theme=dracula"/>
+  <img height="200" 
+       src="https://github-readme-stats-git-master-lorenas-projects-d5969f3a.vercel.app/api/top-langs/?username=lorenabrilhante&layout=pie&theme=dracula" 
+  />
+
+  <img height="200" 
+       src="https://github-readme-stats-git-master-lorenas-projects-d5969f3a.vercel.app/api?username=lorenabrilhante&show_icons=true&theme=dracula" 
+  />
 </div>
 
 ---
